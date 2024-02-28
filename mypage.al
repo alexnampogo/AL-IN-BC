@@ -4,7 +4,7 @@ page 50106 MyPage
     ApplicationArea = All;
     UsageCategory = Administration;
     //SourceTable = TableName;
-    Caption = 'My Page';
+    Caption = 'Page';
 
     layout
     {
@@ -43,8 +43,8 @@ page 50106 MyPage
     trigger OnOpenPage()
 
     begin
-        MyTextVar:='';
+        MyTextVar := '';
         if MyTextVar = '' then
             Message('HOPE YOUR GOOD');
     end;
- }
+}
