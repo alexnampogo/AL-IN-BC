@@ -47,3 +47,4 @@ page 50106 MyPage
         if MyTextVar = '' then
             Message('HOPE YOUR GOOD');
     end;
+ }
