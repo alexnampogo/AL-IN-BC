@@ -4,7 +4,7 @@ page 50106 MyPage
     ApplicationArea = All;
     UsageCategory = Administration;
     //SourceTable = TableName;
-    Caption = 'Page';
+    Caption = 'Sample Page';
 
     layout
     {
